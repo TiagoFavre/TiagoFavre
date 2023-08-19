@@ -23,6 +23,7 @@ These are some of the technologies and tools that I work with:
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
 [![Docker](https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/-AWS-2C2255?style=flat-square&logo=amazon%20aws&logoColor=white)](https://aws.amazon.com/)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 
 
